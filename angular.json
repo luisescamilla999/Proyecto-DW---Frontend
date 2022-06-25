@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "Proyecto-DW-Frontend"
+  "defaultProject": "Proyecto-DW-Frontend",
+  "cli": {
+    "analytics": "2de4e519-5a49-4267-b551-a8ce6c35a5b8"
+  }
 }
